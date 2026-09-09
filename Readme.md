@@ -6,3 +6,5 @@ nader, john, sebastian, bruno, domenica
 semana 3
 https://docs.google.com/document/d/1S_Zf4lBEHIf1DltcM257FLxDl952wySSu70lhSMkCyk/edit?hl=es&pli=1&tab=t.0
 
+semana 4
+https://docs.google.com/document/d/1RULKeuEDAV_xQfwVkQvtcMsMCJhPlX5tmJzi4v5vDtc/edit?hl=es&pli=1&tab=t.0
