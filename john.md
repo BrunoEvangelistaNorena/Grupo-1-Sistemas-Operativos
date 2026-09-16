@@ -1,6 +1,7 @@
 # Comandos del 21-25
-- chmod listo
-- kill listo
-- ping listo
+- chmod
+<img src="/Recursos/Img-S3/S5-John/comando_chmod.png" width="800"/>
+- kill
+- ping
 - grep
-- wget listo
+- wget
