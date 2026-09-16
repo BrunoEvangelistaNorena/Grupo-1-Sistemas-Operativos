@@ -9,7 +9,8 @@ https://docs.google.com/document/d/1S_Zf4lBEHIf1DltcM257FLxDl952wySSu70lhSMkCyk/
 semana 4
 https://docs.google.com/document/d/1RULKeuEDAV_xQfwVkQvtcMsMCJhPlX5tmJzi4v5vDtc/edit?hl=es&pli=1&tab=t.0
 
-
+semana 5
+https://docs.google.com/document/d/1hhGknKOFwLOkDWEXXcNNi_d-3xNCYyopicrEQ5vcJHM/edit?hl=es&pli=1&tab=t.0
 
 # SEMANA 5 Comandos del 21-25
 
