@@ -15,6 +15,9 @@ https://docs.google.com/document/d/1hhGknKOFwLOkDWEXXcNNi_d-3xNCYyopicrEQ5vcJHM/
 semana 6 
 https://docs.google.com/document/d/17HrcNrDZdD1sn2EAIHIpVct0qtQBYlYTS1NvdE6DVc8/edit?tab=t.0
 
+semana 7
+https://docs.google.com/document/d/1fL-Ypk-dg1oM9zF8IUI109qABcmeABU-6ugicuqapq0/edit?tab=t.0
+
 # SEMANA 5 Comandos del 21-25
 
 ## Comando chmod
