@@ -21,6 +21,9 @@ https://docs.google.com/document/d/1fL-Ypk-dg1oM9zF8IUI109qABcmeABU-6ugicuqapq0/
 semana 9
 https://docs.google.com/document/d/1RBZLbi4FkNiLS-jGn8H5LRZ1JyhL4OB4GUY2aUrhrGY/edit?tab=t.0 
 
+Semana 12
+https://docs.google.com/document/d/1FRH2nEcnR_Xjyb2tdE6ynOKDbo46dR_NZqcEgPTw4VU/edit?pli=1&tab=t.0
+
 # SEMANA 5 Comandos del 21-25
 
 ## Comando chmod
